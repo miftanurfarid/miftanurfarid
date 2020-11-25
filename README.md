@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on Electrical Engineering Department, Institut Teknologi Kalimantan.
+I’m currently working on [Electrical Engineering Department](ee.itk.ac.id), [Institut Teknologi Kalimantan](itk.ac.id).
 <!--
 **miftanurfarid/miftanurfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
