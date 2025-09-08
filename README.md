@@ -1,5 +1,8 @@
-### Hi there 👋
-I’m currently working as a lecturer on [Electrical Engineering Department](https://ee.itk.ac.id), [Institut Teknologi Kalimantan](https://itk.ac.id).
+### Hi there 👋  
+
+I’m a lecturer at the [Electrical Engineering Department](https://ee.itk.ac.id), [Institut Teknologi Kalimantan](https://itk.ac.id).  
+
+Currently, I’m also pursuing a Doctoral Program in Electrical Engineering at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id).  
 <!--
 **miftanurfarid/miftanurfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
